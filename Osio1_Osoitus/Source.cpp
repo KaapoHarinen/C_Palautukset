@@ -2,9 +2,6 @@
 #include <cstring>
 using namespace std;
 
-const int MAX_HEIGHT = 120;
-const int MAX_WIDTH = 60;
-
 char aakkoset[] = { 'a', 'b', 'c', 'd', 'e', 'f' , 'g' , 'h' , 'i' , 'j' , 'k' , 'l' , 'm' , 'n' , 'o' , 'p' , 'q' , 'r' , 's' , 't' , 'u' , 'v' , 'x' , 'y' , 'z' };
 
 void Lista(char kirjain)
